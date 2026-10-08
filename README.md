@@ -4,7 +4,7 @@ A four-page Power BI dashboard that shows where an e-commerce business makes mon
 
 I built it to answer one question: sales are growing, so why does the margin feel fragile? The short answer is that three things eat into it. Deep discounts, returns, and stock-outs.
 
-![Executive Perfomance](Dashboard Screenshots/Executive Performance.png)
+![Executive Perfomance](https://github.com/SamuelS2003/E-Commerce-Profitability-Analytics/blob/e2aab31241fa6f585992001e1f61267821bd9ca6/Dashboard%20Screenshots/Executive%20Performance.png)
 
 ## Headline numbers
 
